@@ -56,10 +56,6 @@ Input Features:
 
 Predicted Customer Spending Amount
 
-
-
-### **Workflow:**
-
 ### WORKFLOW:
 
 ### 
